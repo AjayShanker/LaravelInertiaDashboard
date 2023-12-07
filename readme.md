@@ -73,5 +73,5 @@ You're ready to go! Visit In Dashboard in your browser, and login with:
 
 
 ```
-php artisan serve
+phpunit
 ```

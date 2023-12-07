@@ -73,6 +73,5 @@ You're ready to go! Visit In Dashboard in your browser, and login with:
 
 
 ```
-npm run dev
 php artisan serve
 ```
